@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o João de Sá 
 
 🎓 Estudante de **Engenharia da Computação** na [Universidade Presbiteriana Mackenzie](https://www.mackenzie.br), com graduação prevista para **2028**.  
-💻 Apaixonado por **tecnologia, desenvolvimento de software e CyberSegurança**, sempre buscando aprender e aplicar novos conhecimentos em projetos práticos.  
+💻 Possuo mais conhecimento em **tecnologia, desenvolvimento de software e CyberSegurança**, sempre buscando aprender e aplicar novos conhecimentos em projetos práticos.  
 
 ---
 
 ## 🚀 Sobre mim  
 - 🔹 Experiência em **Python, Java, C, C++, JavaScript, HTML e CSS**  
 - 🔹 Interesse em **IoT, Segurança da Informação e Desenvolvimento Full Stack**  
-- 🔹 Já atuei em projetos de automação e suporte técnico
+- 🔹 Atuei em projetos de automação e suporte técnico
 
 ---
 

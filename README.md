@@ -42,3 +42,4 @@
 ## 📫 Contato  
 - 📧 **Email:** joaocbezerra26@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joaocbezerra)
+- 📜 [Curriculo](https://drive.google.com/file/d/1voW3g559VSBzuOPlGlii_IJf6CWzwJ_Y/view?usp=sharing)
